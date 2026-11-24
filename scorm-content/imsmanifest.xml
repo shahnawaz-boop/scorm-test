@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<manifest identifier="XgQ9aXffjeeZWnTsdrD1W8oJZybVujLH76mVVEmF" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>ESG and the Triple Bottom Line</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>ESG and the Triple Bottom Line</title>
+        <adlcp:datafromlms>eyJjcHYiOiI3Nm1WVkVtRiIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/c51a5be2.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/a8d5b75c.js" />
+<file href="scormcontent/lib/rise/c5be2646.css" />
+<file href="scormcontent/lib/rise/75cd28fa.js" />
+<file href="scormcontent/lib/rise/eb9bd09f.js" />
+<file href="scormcontent/lib/rise/20be7de8.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/assets/RYLXh-1K8zKJV4e3_small.png" />
+<file href="scormcontent/assets/l8h4oFFX_614jpiU_4T5JdE1u8JrrqjvL.png" />
+<file href="scormcontent/assets/cCszmUBJCWriG3Ny_JRTppP2hCoPFnWiL-ESG_TBL_Journal.pdf" />
+<file href="scormcontent/assets/r9nNYqAulvCWDFYU_29mPqDIy2GdPOOTa.jpg" />
+<file href="scormcontent/assets/pjRFgbK4MKUsx1rb_5c92wEpwD8pzwp-7.png" />
+<file href="scormcontent/assets/BW2V4oOxuLNQgjLb_ZBroYF7FBIt6xPxt.jpg" />
+<file href="scormcontent/assets/dk5iUOHLsgaa1mq-_Oh4v_c5937rLttf7.png" />
+<file href="scormcontent/assets/uUMRC6WQ2wWCHeDw_24dx6qsKg_yrh_Wq.png" />
+<file href="scormcontent/assets/18l_KycoOyAho3oq__RVoQZ8WQjBnDFTa.png" />
+<file href="scormcontent/assets/49RRTxhoWuJiGxDs_xKaV-6-SIJKU35Yc.png" />
+<file href="scormcontent/assets/DwofCYo7tOyQEbzg_teYoWVp7UkCxMkMQ.jpg" />
+<file href="scormcontent/assets/oJsSeok5tjoD1r_o_hMwA_Zo56Pa6HZdK.jpg" />
+<file href="scormcontent/assets/XqSrBphH8FU3m6u3_0kJvJ3qdEG6sUPkf.jpg" />
+<file href="scormcontent/assets/0aEq2f3Rm6iz5DTe_X7hyrtmXlOevKLNi.jpg" />
+<file href="scormcontent/assets/VYTTKtpoScPVi6L7_8XYOcyLqFyRzkFL9.jpg" />
+<file href="scormcontent/assets/4R42hd7o2LsofB0D_OFCYD39vxqBIK9q7.jpg" />
+<file href="scormcontent/assets/3wFtfROBNn5EIRKj_11_insurance.jpg" />
+<file href="scormcontent/assets/XQr4oqHqMRlv2shf_example-header-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
